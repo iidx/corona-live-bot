@@ -13,4 +13,4 @@ emoji-country-flag
 
 ![telegram-bot](./images/corona_live_bot.png)
 - Command: /corona
-- Bot Link: [@nyong_bot](https://t.me/nyong_bot)`
+- Bot Link: [@nyong_bot](https://t.me/nyong_bot)
