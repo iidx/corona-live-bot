@@ -1,5 +1,5 @@
 # corona-live-bot
-Built for telegram bots, it provide information from [corona-live.com](corona-live.com).
+Built for telegram bots, it provide information from [corona-live.com](https://corona-live.com).
 
 # Requirements
 need to ```python``` module below.
